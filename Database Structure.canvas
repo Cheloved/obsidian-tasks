@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4c1d84fbe4cd809f","type":"text","text":"**Проект**\n- Имя\n- Активный\n- Завершен\n- Участники","x":-369,"y":-320,"width":189,"height":180},
+		{"id":"84a3c347f6a4869c","type":"text","text":"Прикрепленный файл\n- Имя\n- Тип файла\n- Проект/задача/счет\n- Описание","x":-402,"y":340,"width":255,"height":231},
+		{"id":"4e368ff2cff0a58c","type":"text","text":"Счет\n- Проект\n- Срочный\n- Оплачен\n- Ответственный","x":-60,"y":10,"width":288,"height":190},
+		{"id":"16a1f9a874c801c8","type":"text","text":"Задача\n- Название\n- Описание\n- Проект\n- Участники\n- Дата начала\n- Дата окончания\n- Завершена","x":-780,"y":-20,"width":261,"height":280}
+	],
+	"edges":[
+		{"id":"a2fb99a4a42ffb72","fromNode":"4c1d84fbe4cd809f","fromSide":"bottom","toNode":"16a1f9a874c801c8","toSide":"top"},
+		{"id":"6e3e3b42244a4f41","fromNode":"4c1d84fbe4cd809f","fromSide":"bottom","toNode":"4e368ff2cff0a58c","toSide":"top"},
+		{"id":"60c62b2be7093e4f","fromNode":"4e368ff2cff0a58c","fromSide":"bottom","toNode":"84a3c347f6a4869c","toSide":"top"},
+		{"id":"32967dc6cdbcb513","fromNode":"16a1f9a874c801c8","fromSide":"bottom","toNode":"84a3c347f6a4869c","toSide":"top"},
+		{"id":"5e93804bc334660f","fromNode":"4c1d84fbe4cd809f","fromSide":"bottom","toNode":"84a3c347f6a4869c","toSide":"top"}
+	]
+}

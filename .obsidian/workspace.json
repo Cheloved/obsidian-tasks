@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "e0844b334376fc06",
+    "type": "split",
+    "children": [
+      {
+        "id": "20cb1fb553e375d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19191ba7afbd5b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1 1"
+            }
+          },
+          {
+            "id": "a7bc884698314fc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Задача.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задача"
+            }
+          },
+          {
+            "id": "a55db046c3eeb2ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Личный dashboard 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Личный dashboard 1"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "533a6a5f23d1d890",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcb202e2afc4ceb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba1c01c165bf9827",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "acc897450420208e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "238e78208ed2354f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0aa39a696de2c869",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eea7b8acadf5cd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b86a4a5c331eb89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "93419fdf434d9b14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "49e0b4c3e9874d09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fc96874b97b69548",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a55db046c3eeb2ef",
+  "lastOpenFiles": [
+    "Личный dashboard 1 1.md",
+    "Личный dashboard 1.md",
+    "Database Structure.canvas",
+    "Потенциальный вариант архитектуры.canvas",
+    "Projects/Настройка связи/Задачи/Закупка оборудования.md",
+    "Тест.md",
+    "Untitled.md",
+    "Projects/Настройка связи/Задачи/Провести линию связи в дом.md",
+    "Projects/Настройка связи/Задачи/Земельные работы.md",
+    "Utils/Создать задачу.md",
+    "Templates/Задача.md",
+    "Templates/Счет.md",
+    "Utils",
+    "Projects/ВК/Задачи",
+    "Projects/ВК",
+    "Задачия уч1.md",
+    "Untitled 1.md",
+    "Projects/Настройка связи/Счета/Коммутаторы.md",
+    "Projects.md",
+    "Projects",
+    "Настройка связи/Задачи/Земельные работы.md",
+    "Настройка связи/Счета/Коммутаторы.md",
+    "Настройка связи/Задачи/Провести линию связи в дом.md",
+    "Настройка связи/Задачи/Закупка оборудования.md",
+    "Настройка связи/Файлы/New Text Document.txt",
+    "Настройка связи/Файлы/Excel таблица 1.xlsx",
+    "Настройка связи/Файлы/~ew Microsoft Excel Worksheet.tmp",
+    "Настройка связи/Файлы/New Microsoft Excel Worksheet.xlsx",
+    "Templates",
+    "Настройка связи/Файлы",
+    "МПСиС/4. Архитектура системы команд. Система команд и способы адресации операндов. Классификация архитектур по сложности кодирования инструкций (RISC, CISC). Уровни абстракции представления микропроцессора..md",
+    "{E1DF8DDB-3B57-4458-936A-E6334081E391}.png",
+    "МПСиС/3. Арифметико-логические устройства. Определение, структура, подход к проектированию. Вариант АЛУ на основе мультиплексирования операций. Схема ускоренного переноса. Особенности знаковой и беззнаковой арифметики.md",
+    "МПСиС/All.md",
+    "МПСиС/{E1DF8DDB-3B57-4458-936A-E6334081E391}.png",
+    "МПСиС/2. Арифметико-логические устройства. Определение, структура, подход к проектированию, основные уравнения работы АЛУ (пример синтеза выражения). Особенности знаковой и беззнаковой арифметики..md",
+    "МПСиС/{952928BF-3735-42F8-ADA7-CF97D18182B8}.png",
+    "МПСиС/1. Процессоры. Определение, классификация, закономерности развития, области применения. Обобщенная структура микропроцессора. Общий алгоритм функционирования..md",
+    "МПСиС/imgs.md",
+    "МПСиС/{C5A9DB9F-CC05-4C71-A455-03FC4A0682DB}.png",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}

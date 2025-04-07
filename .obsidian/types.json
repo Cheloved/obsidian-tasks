@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Дата начала": "date",
+    "Участники": "multitext",
+    "Дата окончания": "date",
+    "Завершена": "checkbox",
+    "Срочный": "checkbox",
+    "Оплачен": "checkbox",
+    "Ответственный": "multitext",
+    "Дата-начала": "date",
+    "Дата-окончания": "date",
+    "Дедлайн": "date"
+  }
+}
