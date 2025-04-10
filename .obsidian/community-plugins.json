@@ -1,5 +1,7 @@
 [
   "dataview",
   "obsidian-meta-bind-plugin",
-  "js-engine"
+  "js-engine",
+  "obsidian-kanban",
+  "vscode-editor"
 ]
