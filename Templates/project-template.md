@@ -1,0 +1,23 @@
+---
+filetype: project
+Название: 
+Участники:
+---
+## Описание
+
+
+## Связанные задачи
+```dataviewjs
+let pages = dv.pages('"Задачи"').where(p => p["filetype"] == "task" && String(p["Проект"]) == String(dv.current().file.link))
+dv.table(
+	["Название", "Участники", "Дедлайн", "Статус"], 
+	pages.map(p => {
+		const link    = p.file.link;
+		const participants = p.Участники;
+		const due     = p.Дедлайн;
+		const status  = p.Статус;
+		return [link, participants, due, status];
+		})
+);
+
+```

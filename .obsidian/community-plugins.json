@@ -3,5 +3,7 @@
   "obsidian-meta-bind-plugin",
   "js-engine",
   "obsidian-kanban",
-  "vscode-editor"
+  "vscode-editor",
+  "templater-obsidian",
+  "obsidian-tasks-plugin"
 ]
