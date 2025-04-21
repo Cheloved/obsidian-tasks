@@ -8,6 +8,16 @@ dv.header(1, "Текущие задачи")
 let current_tasks = dv.pages('"Задачи"').where(p => (p["filetype"] == "task" && 
 										            filter_by_role(p)) &&
 										            p["Статус"] != "Завершена")
+
+const add_task_btn = `\`\`\`meta-bind-button
+style: primary
+label: Добавить задачу
+action:
+    type: open
+    link: Utils/Создать задачу
+\`\`\``
+dv.paragraph(add_task_btn)
+
 dv.table(
 	["Название", "Приоритет", "Дедлайн", "Статус"], 
 	current_tasks.map(p => {
